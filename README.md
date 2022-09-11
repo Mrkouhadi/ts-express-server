@@ -4,6 +4,6 @@
 
 #### code set up
 
-- run `git clone` in order to clone the repository
+- run `git clone https://github.com/Mrkouhadi/ts-express-server.git` in order to clone the repository
 - run `npm install` to install all the dependencies
 - run `npm run start` to start your short journey of exploring typescript with ExpressJs/Nodejs
